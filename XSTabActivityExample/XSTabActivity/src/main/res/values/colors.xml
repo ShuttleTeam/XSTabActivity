@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--TabHost背景-->
+    <color name="colorTabBar">#232427</color>
+
+    <color name="colorTipPoint">#22ffbb</color>
+
+    <color name="colorTabNameSel">#ffffff</color>
+
+    <color name="colorTabNameNor">#bbbbbb</color>
+
+
+
+
+</resources>

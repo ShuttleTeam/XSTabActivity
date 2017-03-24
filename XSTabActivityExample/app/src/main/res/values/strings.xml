@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">XSTabActivityExample</string>
+    <string name="action_settings">Settings</string>
+
+
+
+    <string name="tabName1">首页</string>
+    <string name="tabName2">社区</string>
+    <string name="tabName3">消息</string>
+    <string name="tabName4">我的</string>
+
+
+</resources>
