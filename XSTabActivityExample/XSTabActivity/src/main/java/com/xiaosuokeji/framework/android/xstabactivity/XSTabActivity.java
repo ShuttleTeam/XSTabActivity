@@ -269,18 +269,14 @@ public abstract class XSTabActivity extends AppCompatActivity {
     public abstract List<XSTab> getXSTab();
 
     /**
-     * 是否显示菜单图标
-     *
-     * @return
+     * @return 是否显示菜单图标
      */
     public boolean isShowIcon() {
         return true;
     }
 
     /**
-     * 是否显示菜单文字
-     *
-     * @return
+     * @return 是否显示菜单文字
      */
     public boolean isShowTitle() {
         return true;
